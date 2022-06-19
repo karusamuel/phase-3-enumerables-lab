@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Practice using common enumerable methods like `#each`, `#map`, `#find`, and
+- Practice using common enumerable methods like ``#each``, `#map`, `#find`, and
   `#filter` with arrays
 
 ## Instructions
@@ -10,7 +10,7 @@
 In the `enumerables.rb` file, there is an array of hashes representing different
 spicy foods:
 
-```rb
+```ruby
 # this method returns an array of hashes, which we'll use in the other methods
 def spicy_foods
   [
